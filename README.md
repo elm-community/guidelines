@@ -65,7 +65,7 @@ documentation oriented towards particular audiences. Now, people can write
 documentation on their own, but that can be a bit of a daunting prospect.
 Plus, ultimately, documentation needs to be published, or integrated somewhere,
 so some kind of central location is useful. So, this can serve as a central
-point for.
+point for that.
 
 ## Getting Involved
 
@@ -74,7 +74,7 @@ So, suppose you'd like to get involved in elm-community. What can you do?
 ### Issues and pull requests
 
 We welcome issues and pull requests, in the usual way. That is, you can create
-an issue if you have a request or see a problem. Or, you you can fork anything
+an issue if you have a request or see a problem. Or, you can fork anything
 here, make some changes, and send a pull request.
 
 ### Become a collaborator
