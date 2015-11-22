@@ -21,7 +21,7 @@ The idea behind elm-community is to have a shared, unofficial home for certain
 kinds of collaborative Elm-related work.
 
 Now, why might that be useful? Without something like elm-community, work is
-either located within the core of [elm-lang](https://github/elm-lang), or it 
+either located within the core of [elm-lang](https://github.com/elm-lang), or it 
 is located in individual (or corporate) accounts. So, elm-community is a kind
 of "middle ground" between those two.
 
