@@ -1,5 +1,20 @@
 # elm-community
 
+## tl;dr 
+
+A community dedicated to sharing maintaince of Elm packages.
+
+## Process
+
+- If a repo is proposed to be moved to elm-community, we must assign a maintainer to that repo. 
+- The maintainer will have full support to merge PRs as they seem fit.
+- Other community members can ping the maintainer if they want something to get merged.
+- If there's something that really needs to get merged, and the maintainer has taken more than 7 days to respond, we can merge things without their invovlement. 
+- Unresponsive champions will be emailed. Lack of response will mean a new maintainer will be assigned to that repo.
+
+
+## Further info
+
 This is a meta-repository for organizational stuff related to elm-community.
 The idea is that we can use the 'issues' to discuss organzational questions,
 and we can use this file (README.md) to document organizational things.
@@ -7,12 +22,12 @@ and we can use this file (README.md) to document organizational things.
 feature, but starting with a simple README seems reasonable).
 
 * [Mandate](#mandate)
+    * [The role of a maintainer](#the-role-of-a-maintainer)
     * [Package Maintenance](#package-maintenance)
     * [Community-driven Documentation](#community-driven-documentation)
 * [Getting involved](#getting-involved)
     * [Issues and pull requests](#issues-and-pull-requests)
-    * [Become a collaborator](#become-a-collaborator)
-    * [Become a team member](#become-a-team-member)
+    * [Become a maintainer](#become-a-maintainer)
     * [Owners](#owners)
 
 ## Mandate
@@ -27,6 +42,14 @@ of "middle ground" between those two.
 
 So, why might such a middle ground be useful? So far, we've identified two areas:
 package maintenance and community-driven documentation.
+
+### The role of a maintainer
+
+A maintainer is expected to:
+
+- Be friendly at all times when dealing with issues and pull requests. Aggressiveness is not needed.
+- Be responsive and take no longer than 7 days to respond to an issue. It's okay to be slow! If you know you will be slow, ping someone else in elm-community and ask them to help out by reviewing.
+- Lead the direction of a repository. As a champion, you will need to make calls on API design. Don't let packages come to elm-community to die.
 
 ### Package Maintenance
 
@@ -67,6 +90,7 @@ Plus, ultimately, documentation needs to be published, or integrated somewhere,
 so some kind of central location is useful. So, this can serve as a central
 point for that.
 
+
 ## Getting Involved
 
 So, suppose you'd like to get involved in elm-community. What can you do?
@@ -77,32 +101,9 @@ We welcome issues and pull requests, in the usual way. That is, you can create
 an issue if you have a request or see a problem. Or, you can fork anything
 here, make some changes, and send a pull request.
 
-### Become a collaborator
+### Become a maintainer
 
-If you want 'write' access to a specific repository, so that you can maintain
-it directly, any team member can grant you 'collaborator' status on a
-particular repository. Perhaps the easiest way to ask is to create an issue on
-the repository you're interested in.
-
-We plan to be fairly liberal in granting 'write' access. However, if we're not
-familiar with your work from Github or the mailing list, we might ask that you
-work from issues and pull requests first for a while. When you get write
-access, we expect to work from consensus and exercise good judgment. If issues
-arise, we can always revert commits and have a discussion.
-
-### Become a team member
-
-Currently, we have three teams: Packages, Guides and Manifesto. Each repository
-is assigned to one of those teams. Team members will keep an eye on issues and
-pull requests and respond as they are able.
-
-In addition to write access to the team's repositories, team members can also
-add collaborators, and create new repositories.
-
-If you'd like to be a team member, probably the best way to ask is to create an
-issue in this repository (Manifesto). I suppose we'll be a little less liberal
-about making people team members. However, there certainly are a number of
-people who would be well-suited for that role.
+Open a PR against [maintainers.md](maintainers.md) adding your email and Github username. 
 
 ### Owners
 
