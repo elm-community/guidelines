@@ -16,7 +16,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [elm-result-extra](http://github.com/elm-community/elm-result-extra) | Convenience functions for working with Result | *Unmaintained* |  |
 | [elm-material-icons](http://github.com/elm-community/elm-material-icons) | Material Icons in Elm | *Unmaintained* |  |
 | [elm-function-extra](http://github.com/elm-community/elm-function-extra) | Higher-order helpers for working with functions | *Unmaintained* |  |
-| [elm-faq](http://github.com/elm-community/elm-faq) | FAQ about the Elm language | *Unmaintained* |  |
+| [elm-faq](http://github.com/elm-community/elm-faq) | FAQ about the Elm language | fredcy | fredcy@gmail.com  |
 | [elm-html-extra](http://github.com/elm-community/elm-html-extra) | Additional functions for working with Html | *Unmaintained* |  |
 | [elm-http-extra](http://github.com/elm-community/elm-http-extra) | Convenience functions for working with Http | *Unmaintained* |  |
 | [elm-for-js](http://github.com/elm-community/elm-for-js) | Community driven Elm guide for JS people | *Unmaintained* |  |
