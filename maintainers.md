@@ -29,3 +29,4 @@ This file contains info on elm-community packages and who the current maintainer
 | [elm-community.github.io](http://github.com/elm-community/elm-community.github.io) | Elm Community organization pages | *Unmaintained* |  |
 | [elm-dict-extra](http://github.com/elm-community/elm-dict-extra) | A library with extra functions for the dictionary type in elm core | *Unmaintained* |  |
 | [elm-lazy-list](http://github.com/elm-community/elm-lazy-list) | Lazy list implementation in Elm | *Unmaintained* |  |
+| [elm-test](http://github.com/elm-community/elm-test) | A unit testing framework for Elm | eeue56 | enalicho@gmail.com |
