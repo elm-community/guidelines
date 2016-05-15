@@ -33,4 +33,4 @@ This file contains info on elm-community packages and who the current maintainer
 | [elm-shrink](http://github.com/elm-community/elm-shrink) | Shrink a value to a simpler one | mgold |  maxgoldstein1@gmail.com |
 | [elm-test](http://github.com/elm-community/elm-test) | A unit testing framework for Elm | eeue56 | enalicho@gmail.com |
 | [elm-check](http://github.com/elm-community/elm-check) | Property-based testing | mgold |  maxgoldstein1@gmail.com |
-
+| [basics-extra](http://github.com/elm-community/basics-extra) | Additional basic functions | jvoigtlaender |  janis.voigtlaender@gmail.com |
