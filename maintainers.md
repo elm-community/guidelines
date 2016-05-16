@@ -5,7 +5,7 @@ This file contains info on elm-community packages and who the current maintainer
 | Repo | Description | Maintainer github | Maintainer email |
 |------|-------|----------|-------|--------|-------------|
 | [builtwithelm](http://github.com/elm-community/builtwithelm) | A list of projects and apps built with Elm. | lukewestby | opensource@lukewestby.com  |
-| [elm-webgl](http://github.com/elm-community/elm-webgl) | Functional 3D Rendering with WebGL in Elm | *Unmaintained* |  |
+| [elm-webgl](http://github.com/elm-community/elm-webgl) | Functional 3D Rendering with WebGL in Elm | w0rm | unsoundscapes@gmail.com |
 | [elm-list-extra](http://github.com/elm-community/elm-list-extra) | Convenience functions for working with List | abadi199 | abadi.kurniawan@gmail.com |
 | [elm-history](http://github.com/elm-community/elm-history) | Elm bindings to HTML5 History API | *Unmaintained* |  |
 | [elm-compiler-docs](http://github.com/elm-community/elm-compiler-docs) | Repo where to write down documentation and guides for the elm-compiler | mgold | maxgoldstein1@gmail.com |
