@@ -11,7 +11,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [elm-compiler-docs](http://github.com/elm-community/elm-compiler-docs) | Repo where to write down documentation and guides for the elm-compiler | mgold | maxgoldstein1@gmail.com |
 | [elm-json-extra](http://github.com/elm-community/elm-json-extra) | Convenience functions for working with Json | lukewestby | opensource@lukewestby.com |
 | [Manifesto](http://github.com/elm-community/Manifesto) | Meta-repository for organizational stuff | *Unmaintained* |  |
-| [elm-array-extra](http://github.com/elm-community/elm-array-extra) | Convenience functions for working with Array | jonboiser | jonboiser@outlook.com |
+| [array-extra](http://github.com/elm-community/array-extra) | Convenience functions for working with Array | jonboiser | jonboiser@outlook.com |
 | [maybe-extra](http://github.com/elm-community/maybe-extra) | Convenience functions for working with Maybe | abadi199 | abadi.kurniawan@gmail.com |
 | [result-extra](http://github.com/elm-community/result-extra) | Convenience functions for working with Result | abadi199 | abadi.kurniawan@gmail.com |
 | [elm-material-icons](http://github.com/elm-community/elm-material-icons) | Material Icons in Elm | mgold | maxgoldstein1@gmail.com |
@@ -23,7 +23,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [elm-number-format](http://github.com/elm-community/elm-number-format) | Number formatting | *Unmaintained* |  |
 | [elm-linear-algebra](http://github.com/elm-community/elm-linear-algebra) | Enough linear algebra to support elm-webgl | fredcy | fredcy@gmail.com |
 | [elm-undo-redo](http://github.com/elm-community/elm-undo-redo) | Easy undo in Elm | *Unmaintained* |  |
-| [elm-list-split](http://github.com/elm-community/elm-list-split) | Split lists into chunks | jonboiser | jonboiser@outlook.com  |
+| [list-split](http://github.com/elm-community/list-split) | Split lists into chunks | jonboiser | jonboiser@outlook.com  |
 | [elm-string-split](http://github.com/elm-community/elm-string-split) | Split strings into chunks | *Unmaintained* |  |
 | [elm-lang.org](http://github.com/elm-community/elm-lang.org) | The full source for http://elm-lang.org/, the home-page of the Elm programming language. Open sourced as a way to teach people how to write and serve Elm code. Follow the instructions in README.md to get the site setup on your own machine. | *Unmaintained* |  |
 | [elm-community.github.io](http://github.com/elm-community/elm-community.github.io) | Elm Community organization pages | *Unmaintained* |  |
