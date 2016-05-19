@@ -17,7 +17,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [elm-material-icons](http://github.com/elm-community/elm-material-icons) | Material Icons in Elm | mgold | maxgoldstein1@gmail.com |
 | [elm-function-extra](http://github.com/elm-community/elm-function-extra) | Higher-order helpers for working with functions | *Unmaintained* |  |
 | [elm-faq](http://github.com/elm-community/elm-faq) | FAQ about the Elm language | fredcy | fredcy@gmail.com  |
-| [elm-html-extra](http://github.com/elm-community/elm-html-extra) | Additional functions for working with Html | *Unmaintained* |  |
+| [html-extra](http://github.com/elm-community/html-extra) | Additional functions for working with Html | *Unmaintained* |  |
 | [elm-http-extra](http://github.com/elm-community/elm-http-extra) | Convenience functions for working with Http | *Unmaintained* |  |
 | [elm-for-js](http://github.com/elm-community/elm-for-js) | Community driven Elm guide for JS people | *Unmaintained* |  |
 | [elm-number-format](http://github.com/elm-community/elm-number-format) | Number formatting | *Unmaintained* |  |
