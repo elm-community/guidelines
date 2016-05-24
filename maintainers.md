@@ -35,3 +35,4 @@ This file contains info on elm-community packages and who the current maintainer
 | [elm-check](http://github.com/elm-community/elm-check) | Property-based testing | mgold |  maxgoldstein1@gmail.com |
 | [basics-extra](http://github.com/elm-community/basics-extra) | Additional basic functions | jvoigtlaender |  janis.voigtlaender@gmail.com |
 | [easing-functions](https://github.com/elm-community/easing-functions) |  Easing (animation and timing) library for Elm | Dandandan | danielheres@gmail.com |
+| [svg-extra](http://github.com/elm-community/svg-extra) | Additional functions for working with Svg | jvoigtlaender | janis.voigtlaender@gmail.com |
