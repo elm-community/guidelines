@@ -36,3 +36,5 @@ This file contains info on elm-community packages and who the current maintainer
 | [basics-extra](http://github.com/elm-community/basics-extra) | Additional basic functions | jvoigtlaender |  janis.voigtlaender@gmail.com |
 | [easing-functions](https://github.com/elm-community/easing-functions) |  Easing (animation and timing) library for Elm | Dandandan | danielheres@gmail.com |
 | [svg-extra](http://github.com/elm-community/svg-extra) | Additional functions for working with Svg | jvoigtlaender | janis.voigtlaender@gmail.com |
+| [intdict](http://github.com/elm-community/intdict) | Optimized dictionary specialization for Integers. Mirrors the dictionary API. | sgraf812 | sgraf1337@gmail.com |
+| [graph](http://github.com/elm-community/graph) | Functional Graph Library in Elm | sgraf812 | sgraf1337@gmail.com |
