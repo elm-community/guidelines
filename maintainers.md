@@ -9,7 +9,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [list-extra](http://github.com/elm-community/list-extra) | Convenience functions for working with List | abadi199 | abadi.kurniawan@gmail.com |
 | [elm-history](http://github.com/elm-community/elm-history) | Elm bindings to HTML5 History API | *Unmaintained* |  |
 | [elm-compiler-docs](http://github.com/elm-community/elm-compiler-docs) | Repo where to write down documentation and guides for the elm-compiler | mgold | maxgoldstein1@gmail.com |
-| [elm-json-extra](http://github.com/elm-community/elm-json-extra) | Convenience functions for working with Json | lukewestby | opensource@lukewestby.com |
+| [json-extra](http://github.com/elm-community/json-extra) | Convenience functions for working with Json | lukewestby | opensource@lukewestby.com |
 | [Manifesto](http://github.com/elm-community/Manifesto) | Meta-repository for organizational stuff | *Unmaintained* |  |
 | [array-extra](http://github.com/elm-community/array-extra) | Convenience functions for working with Array | jonboiser | jonboiser@outlook.com |
 | [maybe-extra](http://github.com/elm-community/maybe-extra) | Convenience functions for working with Maybe | abadi199 | abadi.kurniawan@gmail.com |
