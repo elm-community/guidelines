@@ -31,7 +31,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [elm-lazy-list](http://github.com/elm-community/elm-lazy-list) | Lazy list implementation in Elm | mgold |  maxgoldstein1@gmail.com |
 | [random-extra](http://github.com/elm-community/random-extra) | Extra functions for Random | mgold |  maxgoldstein1@gmail.com |
 | [shrink](http://github.com/elm-community/shrink) | Shrink a value to a simpler one | mgold |  maxgoldstein1@gmail.com |
-| [elm-test](http://github.com/elm-community/elm-test) | A unit testing framework for Elm | eeue56 | enalicho@gmail.com |
+| [elm-test](http://github.com/elm-community/elm-test) | A unit testing framework for Elm | rtfeldman | richard.t.feldman@gmail.com |
 | [elm-check](http://github.com/elm-community/elm-check) | Property-based testing | mgold |  maxgoldstein1@gmail.com |
 | [basics-extra](http://github.com/elm-community/basics-extra) | Additional basic functions | jvoigtlaender |  janis.voigtlaender@gmail.com |
 | [easing-functions](https://github.com/elm-community/easing-functions) |  Easing (animation and timing) library for Elm | Dandandan | danielheres@gmail.com |
