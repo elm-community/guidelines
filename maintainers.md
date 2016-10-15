@@ -7,7 +7,6 @@ This file contains info on elm-community packages and who the current maintainer
 | [builtwithelm](http://github.com/elm-community/builtwithelm) | A list of projects and apps built with Elm. | lukewestby | opensource@lukewestby.com  |
 | [elm-webgl](http://github.com/elm-community/elm-webgl) | Functional 3D Rendering with WebGL in Elm | *Unmaintained* |  |
 | [list-extra](http://github.com/elm-community/list-extra) | Convenience functions for working with List | abadi199 | abadi.kurniawan@gmail.com |
-| [elm-history](http://github.com/elm-community/elm-history) | Elm bindings to HTML5 History API | *Unmaintained* |  |
 | [elm-compiler-docs](http://github.com/elm-community/elm-compiler-docs) | Repo where to write down documentation and guides for the elm-compiler | mgold | maxgoldstein1@gmail.com |
 | [json-extra](http://github.com/elm-community/json-extra) | Convenience functions for working with Json | lukewestby | opensource@lukewestby.com |
 | [Manifesto](http://github.com/elm-community/Manifesto) | Meta-repository for organizational stuff | *Unmaintained* |  |
@@ -39,3 +38,8 @@ This file contains info on elm-community packages and who the current maintainer
 | [intdict](http://github.com/elm-community/intdict) | Optimized dictionary specialization for Integers. Mirrors the dictionary API. | sgraf812 | sgraf1337@gmail.com |
 | [graph](http://github.com/elm-community/graph) | Functional Graph Library in Elm | sgraf812 | sgraf1337@gmail.com |
 | [string-extra](http://github.com/elm-community/string-extra) | String helper functions for Elm | lorenzo & jaapz | jose.zap@gmail.com & jaapz.b@gmail.com |
+
+## Deprecated packages
+| Repo | Description | Maintainer github | Maintainer email |
+|------|-------|----------|-------|--------|-------------|
+| [elm-history](http://github.com/elm-community/elm-history) | Elm bindings to HTML5 History API | *Unmaintained* |  |
