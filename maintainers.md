@@ -21,7 +21,6 @@ This file contains info on elm-community packages and who the current maintainer
 | [elm-linear-algebra](http://github.com/elm-community/elm-linear-algebra) | Enough linear algebra to support elm-webgl | fredcy | fredcy@gmail.com |
 | [undo-redo](http://github.com/elm-community/undo-redo) | Easy undo in Elm | rohanorton | rohan.orton@gmail.com |
 | [list-split](http://github.com/elm-community/list-split) | Split lists into chunks | jonboiser | jonboiser@outlook.com  |
-| [elm-string-split](http://github.com/elm-community/elm-string-split) | Split strings into chunks | *Unmaintained* |  |
 | [elm-lang.org](http://github.com/elm-community/elm-lang.org) | The full source for http://elm-lang.org/, the home-page of the Elm programming language. Open sourced as a way to teach people how to write and serve Elm code. Follow the instructions in README.md to get the site setup on your own machine. | *Unmaintained* |  |
 | [elm-community.github.io](http://github.com/elm-community/elm-community.github.io) | Elm Community organization pages | *Unmaintained* |  |
 | [dict-extra](http://github.com/elm-community/dict-extra) | A library with extra functions for the dictionary type in elm core | Skinney | robin.heggelund@icloud.com |
