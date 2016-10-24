@@ -14,7 +14,6 @@ This file contains info on elm-community packages and who the current maintainer
 | [maybe-extra](http://github.com/elm-community/maybe-extra) | Convenience functions for working with Maybe | abadi199 | abadi.kurniawan@gmail.com |
 | [result-extra](http://github.com/elm-community/result-extra) | Convenience functions for working with Result | abadi199 | abadi.kurniawan@gmail.com |
 | [elm-material-icons](http://github.com/elm-community/elm-material-icons) | Material Icons in Elm | mgold | maxgoldstein1@gmail.com |
-| [elm-function-extra](http://github.com/elm-community/elm-function-extra) | Higher-order helpers for working with functions | *Unmaintained* |  |
 | [elm-faq](http://github.com/elm-community/elm-faq) | FAQ about the Elm language | fredcy | fredcy@gmail.com  |
 | [html-extra](http://github.com/elm-community/html-extra) | Additional functions for working with Html | *Unmaintained* |  |
 | [elm-http-extra](http://github.com/elm-community/elm-http-extra) | Convenience functions for working with Http | *Unmaintained* |  |
