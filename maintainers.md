@@ -17,7 +17,6 @@ This file contains info on elm-community packages and who the current maintainer
 | [elm-faq](http://github.com/elm-community/elm-faq) | FAQ about the Elm language | fredcy | fredcy@gmail.com  |
 | [html-extra](http://github.com/elm-community/html-extra) | Additional functions for working with Html | *Unmaintained* |  |
 | [elm-for-js](http://github.com/elm-community/elm-for-js) | Community driven Elm guide for JS people | *Unmaintained* |  |
-| [elm-number-format](http://github.com/elm-community/elm-number-format) | Number formatting | *Unmaintained* |  |
 | [elm-linear-algebra](http://github.com/elm-community/elm-linear-algebra) | Enough linear algebra to support elm-webgl | fredcy | fredcy@gmail.com |
 | [undo-redo](http://github.com/elm-community/undo-redo) | Easy undo in Elm | rohanorton | rohan.orton@gmail.com |
 | [list-split](http://github.com/elm-community/list-split) | Split lists into chunks | jonboiser | jonboiser@outlook.com  |
