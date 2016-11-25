@@ -15,7 +15,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [result-extra](http://github.com/elm-community/result-extra) | Convenience functions for working with Result | abadi199 | abadi.kurniawan@gmail.com |
 | [elm-material-icons](http://github.com/elm-community/elm-material-icons) | Material Icons in Elm | mgold | maxgoldstein1@gmail.com |
 | [elm-faq](http://github.com/elm-community/elm-faq) | FAQ about the Elm language | fredcy | fredcy@gmail.com  |
-| [html-extra](http://github.com/elm-community/html-extra) | Additional functions for working with Html | *Unmaintained* |  |
+| [html-extra](http://github.com/elm-community/html-extra) | Additional functions for working with Html | prikhi | pavan.rikhi@gmail.com  |
 | [elm-for-js](http://github.com/elm-community/elm-for-js) | Community driven Elm guide for JS people | *Unmaintained* |  |
 | [linear-algebra](http://github.com/elm-community/linear-algebra) | Enough linear algebra to support webgl | fredcy | fredcy@gmail.com |
 | [undo-redo](http://github.com/elm-community/undo-redo) | Easy undo in Elm | rohanorton | rohan.orton@gmail.com |
