@@ -30,6 +30,9 @@ feature, but starting with a simple README seems reasonable).
     * [Become a maintainer](#become-a-maintainer)
     * [Moving a repo to elm-community](#moving-a-repo-to-elm-community)
     * [Owners](#owners)
+* [Documentation for Maintainers](#documentation-for-maintainers)
+    * [Renaming Elm-Community Repositories](#renaming-elm-community-packages)
+
 
 ## Mandate
 
@@ -108,7 +111,7 @@ Open a PR against [maintainers.md](maintainers.md) adding your email and Github 
 
 ### Moving a Repo to Elm-Community
 
-If you have a library you would like to transfer to the @elm-community team:
+If you have a library you would like to transfer to the elm-community team:
 
 1. Open a PR against this repository, adding your library to maintainers.md.
 1. An Admin of elm-community will fork your repository, adding you as an owner.
@@ -116,9 +119,35 @@ If you have a library you would like to transfer to the @elm-community team:
 1. Modify the `elm-package.json` to match the elm-community repository, and
    reset the version to `1.0.0`.
 1. Publish the new package to packages.elm-lang.org.
+1. **Do not** remove your original repository or any of it's tags, doing so
+   will cause builds still using the old version to break.
 
 ### Owners
 
 For your information, the 'owner' of elm-community (in Github terms) is
 @rgrempel. So, feel free to contact me if there are things that need to be
 done that require an 'owner'.
+
+
+## Documentation for Maintainers
+
+### Renaming Elm-Community Packages
+
+User packages tend to be prefixed like `elm-html-extra`. When a package is
+transfered to the elm-community team, the `elm-` prefix becomes
+redundant(`elm-community/elm-html-extra`), so the prefix may be removed from
+the original package's name:
+
+* Name changes should only occur when a package is upgraded to a newer Elm
+  version - if `elm-package-name` supports Elm v0.17, only `package-name`
+  should support Elm v0.18+. Do not update both `elm-package-name` &
+  `package-name` to Elm v0.18+.
+* Renaming a package should be run by at least one other person, and ideally
+  the #elm-community slack channel.
+* When creating an `elm-community/package-name` repository, **don't** delete
+  the `elm-community/elm-package-name` repository or remove any of the tags.
+  Doing so will break builds for previous version of Elm.
+* When moving a `user/elm-package-name` repository to
+  `elm-community/package-name`, **always** leave behind the user's repository
+  along with any tags, or builds using the old version of the package will
+  break.
