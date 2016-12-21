@@ -28,6 +28,7 @@ feature, but starting with a simple README seems reasonable).
 * [Getting involved](#getting-involved)
     * [Issues and pull requests](#issues-and-pull-requests)
     * [Become a maintainer](#become-a-maintainer)
+    * [Moving a repo to elm-community](#moving-a-repo-to-elm-community)
     * [Owners](#owners)
 
 ## Mandate
@@ -104,6 +105,17 @@ here, make some changes, and send a pull request.
 ### Become a maintainer
 
 Open a PR against [maintainers.md](maintainers.md) adding your email and Github username. 
+
+### Moving a Repo to Elm-Community
+
+If you have a library you would like to transfer to the @elm-community team:
+
+1. Open a PR against this repository, adding your library to maintainers.md.
+1. An Admin of elm-community will fork your repository, adding you as an owner.
+1. Remove all tags from the forked elm-community repository.
+1. Modify the `elm-package.json` to match the elm-community repository, and
+   reset the version to `1.0.0`.
+1. Publish the new package to packages.elm-lang.org.
 
 ### Owners
 
