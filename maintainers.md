@@ -35,7 +35,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [string-extra](http://github.com/elm-community/string-extra) | String helper functions for Elm | lorenzo & jaapz | jose.zap@gmail.com & jaapz.b@gmail.com |
 | [ratio](http://github.com/elm-community/ratio) | Rational numbers | newlandsvalley | john.watson@gmx.co.uk |
 | [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) | Webpack loader for Elm | eeue56 | enalicho@gmail.com |
-| [canvas](https://github.com/Chadtech/elm-canvas | Canvas API in Elm | chadtech | chadtech@programhouse.us
+| [canvas](https://github.com/Chadtech/elm-canvas) | Canvas API in Elm | chadtech | chadtech@programhouse.us
 
 ## Deprecated packages
 | Repo | Description | Maintainer github | Maintainer email |
