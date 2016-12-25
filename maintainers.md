@@ -6,7 +6,7 @@ This file contains info on elm-community packages and who the current maintainer
 |------|-------|----------|-------|--------|-------------|
 | [builtwithelm](http://github.com/elm-community/builtwithelm) | A list of projects and apps built with Elm. | lukewestby | opensource@lukewestby.com  |
 | [webgl](http://github.com/elm-community/webgl) | Functional 3D Rendering with WebGL in Elm | w0rm | unsoundscapes@gmail.com |
-| [list-extra](http://github.com/elm-community/list-extra) | Convenience functions for working with List | abadi199 | abadi.kurniawan@gmail.com |
+| [list-extra](http://github.com/elm-community/list-extra) | Convenience functions for working with List | *Unmaintained* |  |
 | [elm-compiler-docs](http://github.com/elm-community/elm-compiler-docs) | Repo where to write down documentation and guides for the elm-compiler | mgold | maxgoldstein1@gmail.com |
 | [json-extra](http://github.com/elm-community/json-extra) | Convenience functions for working with Json | lukewestby | opensource@lukewestby.com |
 | [Manifesto](http://github.com/elm-community/Manifesto) | Meta-repository for organizational stuff | *Unmaintained* |  |
