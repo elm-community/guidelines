@@ -1,15 +1,15 @@
 # elm-community
 
-## tl;dr 
+## tl;dr
 
 A community dedicated to sharing maintaince of Elm packages.
 
 ## Process
 
-- If a repo is proposed to be moved to elm-community, we must assign a maintainer to that repo. 
+- If a repo is proposed to be moved to elm-community, we must assign a maintainer to that repo.
 - The maintainer will have full support to merge PRs as they seem fit.
 - Other community members can ping the maintainer if they want something to get merged.
-- If there's something that really needs to get merged, and the maintainer has taken more than 7 days to respond, we can merge things without their invovlement. 
+- If there's something that really needs to get merged, and the maintainer has taken more than 7 days to respond, we can merge things without their invovlement.
 - Unresponsive champions will be emailed. Lack of response will mean a new maintainer will be assigned to that repo.
 
 
@@ -37,7 +37,7 @@ The idea behind elm-community is to have a shared, unofficial home for certain
 kinds of collaborative Elm-related work.
 
 Now, why might that be useful? Without something like elm-community, work is
-either located within the core of [elm-lang](https://github.com/elm-lang), or it 
+either located within the core of [elm-lang](https://github.com/elm-lang), or it
 is located in individual (or corporate) accounts. So, elm-community is a kind
 of "middle ground" between those two.
 
@@ -104,7 +104,7 @@ here, make some changes, and send a pull request.
 
 ### Become a maintainer
 
-Open a PR against [maintainers.md](maintainers.md) adding your email and Github username. 
+Open a PR against [maintainers.md](maintainers.md) adding your email and Github username.
 
 ### Moving a Repo to Elm-Community
 
