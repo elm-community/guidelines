@@ -2,7 +2,7 @@
 
 ## tl;dr 
 
-A community dedicated to sharing maintaince of Elm packages.
+A community dedicated to sharing maintenance of Elm packages.
 
 ## Process
 
