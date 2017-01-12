@@ -17,6 +17,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [elm-for-js](http://github.com/elm-community/elm-for-js) | Community driven Elm guide for JS people | *Unmaintained* |  |
 | [elm-test](http://github.com/elm-community/elm-test) | A unit testing framework for Elm | rtfeldman | richard.t.feldman@gmail.com |
 | [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) | Webpack loader for Elm | eeue56 | enalicho@gmail.com |
+| [Elm.tmLanguage](https://github.com/elm-community/Elm.tmLanguage) | Elm language support for Sublime Text | sentience | thatguy@kevinyank.com |
 | [graph](http://github.com/elm-community/graph) | Functional Graph Library in Elm | sgraf812 | sgraf1337@gmail.com |
 | [html-extra](http://github.com/elm-community/html-extra) | Additional functions for working with Html | prikhi | pavan.rikhi@gmail.com |
 | [intdict](http://github.com/elm-community/intdict) | Optimized dictionary specialization for Integers. Mirrors the dictionary API. | sgraf812 | sgraf1337@gmail.com |
