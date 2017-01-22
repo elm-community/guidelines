@@ -12,7 +12,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [easing-functions](https://github.com/elm-community/easing-functions) | Easing (animation and timing) library for Elm | Dandandan | danielheres@gmail.com |
 | [elm-check](http://github.com/elm-community/elm-check) | Property-based testing | mgold | maxgoldstein1@gmail.com |
 | [elm-combine](http://github.com/elm-combine/) | A parser combinator library. | *Unmaintained* | |
-| [elm-community.github.io](http://github.com/elm-community/elm-community.github.io) | Elm Community organization pages | *Unmaintained* |  |
+| [elm-community.github.io](http://github.com/elm-community/elm-community.github.io) | Elm Community organization pages | maraisr | hi@marais.io |
 | [elm-compiler-docs](http://github.com/elm-community/elm-compiler-docs) | Repo where to write down documentation and guides for the elm-compiler | mgold | maxgoldstein1@gmail.com |
 | [elm-datepicker](http://github.com/elm-community/elm-datepicker) | A reusable date picker component in Elm. | bbqbaron | eric.r.loren@gmail.com |
 | [elm-faq](http://github.com/elm-community/elm-faq) | FAQ about the Elm language | fredcy | fredcy@gmail.com |
