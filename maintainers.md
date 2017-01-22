@@ -13,6 +13,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [elm-check](http://github.com/elm-community/elm-check) | Property-based testing | mgold | maxgoldstein1@gmail.com |
 | [elm-community.github.io](http://github.com/elm-community/elm-community.github.io) | Elm Community organization pages | *Unmaintained* |  |
 | [elm-compiler-docs](http://github.com/elm-community/elm-compiler-docs) | Repo where to write down documentation and guides for the elm-compiler | mgold | maxgoldstein1@gmail.com |
+| [elm-datepicker](http://github.com/elm-community/elm-datepicker) | A reusable date picker component in Elm. | bbqbaron | eric.r.loren@gmail.com |
 | [elm-faq](http://github.com/elm-community/elm-faq) | FAQ about the Elm language | fredcy | fredcy@gmail.com |
 | [elm-for-js](http://github.com/elm-community/elm-for-js) | Community driven Elm guide for JS people | *Unmaintained* |  |
 | [elm-route](https://github.com/elm-community/elm-route) | Route parser for Elm | gjaldon | gjaldon85@gmail.com |
