@@ -18,6 +18,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [elm-for-js](http://github.com/elm-community/elm-for-js) | Community driven Elm guide for JS people | *Unmaintained* |  |
 | [elm-route](https://github.com/elm-community/elm-route) | Route parser for Elm | gjaldon | gjaldon85@gmail.com |
 | [elm-test](http://github.com/elm-community/elm-test) | A unit testing framework for Elm | rtfeldman | richard.t.feldman@gmail.com |
+| [elm-time](https://github.com/elm-community/elm-time) | A pure Elm date and time library | oldfartdeveloper | scottnelsonsmith@gmail.com |
 | [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) | Webpack loader for Elm | eeue56 | enalicho@gmail.com |
 | [Elm.tmLanguage](https://github.com/elm-community/Elm.tmLanguage) | Elm language support for Sublime Text | sentience | thatguy@kevinyank.com |
 | [graph](http://github.com/elm-community/graph) | Functional Graph Library in Elm | sgraf812 | sgraf1337@gmail.com |
