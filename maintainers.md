@@ -11,7 +11,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [dict-extra](http://github.com/elm-community/dict-extra) | A library with extra functions for the dictionary type in elm core | Skinney | robin.heggelund@icloud.com |
 | [easing-functions](https://github.com/elm-community/easing-functions) | Easing (animation and timing) library for Elm | Dandandan | danielheres@gmail.com |
 | [elm-check](http://github.com/elm-community/elm-check) | Property-based testing | mgold | maxgoldstein1@gmail.com |
-| [elm-combine](http://github.com/elm-community/elm-combine/) | A parser combinator library. | *Unmaintained* | |
+| [elm-combine](http://github.com/elm-community/elm-combine/) | A parser combinator library. | stil4m | mstijlaart@gmail.com |
 | [elm-community.github.io](http://github.com/elm-community/elm-community.github.io) | Elm Community organization pages | *Unmaintained* |  |
 | [elm-compiler-docs](http://github.com/elm-community/elm-compiler-docs) | Repo where to write down documentation and guides for the elm-compiler | mgold | maxgoldstein1@gmail.com |
 | [elm-datepicker](http://github.com/elm-community/elm-datepicker) | A reusable date picker component in Elm. | bbqbaron | eric.r.loren@gmail.com |
