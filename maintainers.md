@@ -30,7 +30,6 @@ This file contains info on elm-community packages and who the current maintainer
 | [linear-algebra](http://github.com/elm-community/linear-algebra) | Enough linear algebra to support webgl | fredcy | fredcy@gmail.com |
 | [list-extra](http://github.com/elm-community/list-extra) | Convenience functions for working with List | *Unmaintained* |  |
 | [list-split](http://github.com/elm-community/list-split) | Split lists into chunks | jonboiser | jonboiser@outlook.com |
-| [Manifesto](http://github.com/elm-community/Manifesto) | Meta-repository for organizational stuff | *Unmaintained* |  |
 | [material-icons](http://github.com/elm-community/material-icons) | Material Icons in Elm | mgold | maxgoldstein1@gmail.com |
 | [maybe-extra](http://github.com/elm-community/maybe-extra) | Convenience functions for working with Maybe | abadi199 | abadi.kurniawan@gmail.com |
 | [random-extra](http://github.com/elm-community/random-extra) | Extra functions for Random | mgold | maxgoldstein1@gmail.com |
