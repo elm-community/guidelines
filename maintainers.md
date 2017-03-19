@@ -3,7 +3,7 @@ This file contains info on elm-community packages and who the current maintainer
 
 ## Repo breakdown (in alphabetic order)
 | Repo | Description | Maintainer github | Maintainer email |
-|------|-------|----------|-------|--------|-------------|
+|------|-------|----------|-------|
 | [array-extra](http://github.com/elm-community/array-extra) | Convenience functions for working with Array | jonboiser | jonboiser@outlook.com |
 | [basics-extra](http://github.com/elm-community/basics-extra) | Additional basic functions | jvoigtlaender | janis.voigtlaender@gmail.com |
 | [builtwithelm](http://github.com/elm-community/builtwithelm) | A list of projects and apps built with Elm | lukewestby | opensource@lukewestby.com |
@@ -45,6 +45,6 @@ This file contains info on elm-community packages and who the current maintainer
 
 ## Deprecated packages
 | Repo | Description | Maintainer github | Maintainer email |
-|------|-------|----------|-------|--------|-------------|
+|------|-------|----------|-------|
 | [elm-history](http://github.com/elm-community/elm-history) | Elm bindings to HTML5 History API | *Unmaintained* |  |
 | [elm-lang.org](http://github.com/elm-community/elm-lang.org) | The full source for http://elm-lang.org/, the home-page of the Elm programming language. Open sourced as a way to teach people how to write and serve Elm code. Follow the instructions in README.md to get the site setup on your own machine. | *Unmaintained* |  |
