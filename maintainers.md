@@ -41,7 +41,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [svg-extra](http://github.com/elm-community/svg-extra) | Additional functions for working with Svg | jvoigtlaender | janis.voigtlaender@gmail.com |
 | [undo-redo](http://github.com/elm-community/undo-redo) | Easy undo in Elm | rohanorton | rohan.orton@gmail.com |
 | [webgl](http://github.com/elm-community/webgl) | Functional 3D Rendering with WebGL in Elm | w0rm | unsoundscapes@gmail.com |
-
+| [typed-svg](http://github.com/elm-community/typed-svg) | Type-safe API for SVG. | rupertlssmith | typedsvg@thesett.com |
 
 ## Deprecated packages
 | Repo | Description | Maintainer github | Maintainer email |
