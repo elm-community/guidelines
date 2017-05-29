@@ -25,6 +25,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [Elm.tmLanguage](https://github.com/elm-community/Elm.tmLanguage) | Elm language support for Sublime Text | sentience | thatguy@kevinyank.com |
 | [graph](http://github.com/elm-community/graph) | Functional Graph Library in Elm | sgraf812 | sgraf1337@gmail.com |
 | [html-extra](http://github.com/elm-community/html-extra) | Additional functions for working with Html | prikhi | pavan.rikhi@gmail.com |
+| [html-test-runner](http://github.com/elm-community/html-test-runner) | Run elm-test suites in the browser | hkgumbs | h.kofigumbs@gmail.com |
 | [intdict](http://github.com/elm-community/intdict) | Optimized dictionary specialization for Integers. Mirrors the dictionary API. | sgraf812 | sgraf1337@gmail.com |
 | [json-extra](http://github.com/elm-community/json-extra) | Convenience functions for working with Json | lukewestby | opensource@lukewestby.com |
 | [lazy-list](http://github.com/elm-community/lazy-list) | Lazy list implementation in Elm | mgold | maxgoldstein1@gmail.com |
