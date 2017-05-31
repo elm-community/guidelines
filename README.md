@@ -124,9 +124,7 @@ If you have a library you would like to transfer to the elm-community team:
 
 ### Owners
 
-For your information, the 'owner' of elm-community (in Github terms) is
-@rgrempel. So, feel free to contact me if there are things that need to be
-done that require an 'owner'.
+Open an issue on this repo if you need to speak to an owner.
 
 
 ## Documentation for Maintainers
