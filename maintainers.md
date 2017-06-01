@@ -30,7 +30,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [json-extra](http://github.com/elm-community/json-extra) | Convenience functions for working with Json | lukewestby | opensource@lukewestby.com |
 | [lazy-list](http://github.com/elm-community/lazy-list) | Lazy list implementation in Elm | mgold | maxgoldstein1@gmail.com |
 | [linear-algebra](http://github.com/elm-community/linear-algebra) | Enough linear algebra to support webgl | fredcy | fredcy@gmail.com |
-| [list-extra](http://github.com/elm-community/list-extra) | Convenience functions for working with List | *Unmaintained* |  |
+| [list-extra](http://github.com/elm-community/list-extra) | Convenience functions for working with List | chadtech | chadtech0@gmail.com |
 | [list-split](http://github.com/elm-community/list-split) | Split lists into chunks | jonboiser | jonboiser@outlook.com |
 | [material-icons](http://github.com/elm-community/material-icons) | Material Icons in Elm | mgold | maxgoldstein1@gmail.com |
 | [maybe-extra](http://github.com/elm-community/maybe-extra) | Convenience functions for working with Maybe | abadi199 | abadi.kurniawan@gmail.com |
