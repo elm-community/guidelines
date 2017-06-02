@@ -27,7 +27,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [html-extra](http://github.com/elm-community/html-extra) | Additional functions for working with Html | prikhi | pavan.rikhi@gmail.com |
 | [html-test-runner](http://github.com/elm-community/html-test-runner) | Run elm-test suites in the browser | hkgumbs | h.kofigumbs@gmail.com |
 | [intdict](http://github.com/elm-community/intdict) | Optimized dictionary specialization for Integers. Mirrors the dictionary API. | sgraf812 | sgraf1337@gmail.com |
-| [json-extra](http://github.com/elm-community/json-extra) | Convenience functions for working with Json | lukewestby | opensource@lukewestby.com |
+| [json-extra](http://github.com/elm-community/json-extra) | Convenience functions for working with Json | zwilias | mail@ilias.xyz |
 | [lazy-list](http://github.com/elm-community/lazy-list) | Lazy list implementation in Elm | mgold | maxgoldstein1@gmail.com |
 | [linear-algebra](http://github.com/elm-community/linear-algebra) | Enough linear algebra to support webgl | fredcy | fredcy@gmail.com |
 | [list-extra](http://github.com/elm-community/list-extra) | Convenience functions for working with List | chadtech | chadtech0@gmail.com |
