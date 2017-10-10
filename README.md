@@ -9,7 +9,7 @@ A community dedicated to sharing maintenance of Elm packages.
 - If a repo is proposed to be moved to elm-community, we must assign a maintainer to that repo.
 - The maintainer will have full support to merge PRs as they seem fit.
 - Other community members can ping the maintainer if they want something to get merged.
-- If there's something that really needs to get merged, and the maintainer has taken more than 7 days to respond, we can merge things without their invovlement.
+- If there's something that really needs to get merged, and the maintainer has taken more than 7 days to respond, we can merge things without their involvement.
 - Unresponsive champions will be emailed. Lack of response will mean a new maintainer will be assigned to that repo.
 
 
