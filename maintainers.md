@@ -21,7 +21,6 @@ This file contains info on elm-community packages and who the current maintainer
 | [elm-time](https://github.com/elm-community/elm-time) | A pure Elm date and time library | oldfartdeveloper | scottnelsonsmith@gmail.com |
 | [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) | Webpack loader for Elm | eeue56 | enalicho@gmail.com |
 | [elm-webpack-starter](https://github.com/elm-community/elm-webpack-starter) | Boilerplate for developing Elm apps on Webpack | eeue56 | enalicho@gmail.com |
-| [Elm.tmLanguage](https://github.com/elm-community/Elm.tmLanguage) | Elm language support for Sublime Text | sentience | thatguy@kevinyank.com |
 | [graph](http://github.com/elm-community/graph) | Functional Graph Library in Elm | sgraf812 | sgraf1337@gmail.com |
 | [html-extra](http://github.com/elm-community/html-extra) | Additional functions for working with Html | prikhi | pavan.rikhi@gmail.com |
 | [html-test-runner](http://github.com/elm-community/html-test-runner) | Run elm-test suites in the browser | hkgumbs | h.kofigumbs@gmail.com |
@@ -38,6 +37,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [result-extra](http://github.com/elm-community/result-extra) | Convenience functions for working with Result | abadi199 | abadi.kurniawan@gmail.com |
 | [shrink](http://github.com/elm-community/shrink) | Shrink a value to a simpler one | mgold | maxgoldstein1@gmail.com |
 | [string-extra](http://github.com/elm-community/string-extra) | String helper functions for Elm | lorenzo & jaapz | jose.zap@gmail.com & jaapz.b@gmail.com |
+| [SublimeElmLanguageSupport](https://github.com/elm-community/SublimeElmLanguageSupport) | Elm language support for Sublime Text | sentience | thatguy@kevinyank.com |
 | [svg-extra](http://github.com/elm-community/svg-extra) | Additional functions for working with Svg | jvoigtlaender | janis.voigtlaender@gmail.com |
 | [undo-redo](http://github.com/elm-community/undo-redo) | Easy undo in Elm | rohanorton | rohan.orton@gmail.com |
 | [webgl](http://github.com/elm-community/webgl) | Functional 3D Rendering with WebGL in Elm | w0rm | unsoundscapes@gmail.com |
