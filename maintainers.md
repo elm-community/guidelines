@@ -5,7 +5,7 @@ This file contains info on elm-community packages and who the current maintainer
 | Repo | Description | Maintainer github | Maintainer email |
 |------|-------|----------|-------|
 | [array-extra](http://github.com/elm-community/array-extra) | Convenience functions for working with Array | jonboiser | jonboiser@outlook.com |
-| [basics-extra](http://github.com/elm-community/basics-extra) | Additional basic functions | jvoigtlaender | janis.voigtlaender@gmail.com |
+| [basics-extra](http://github.com/elm-community/basics-extra) | Additional basic functions | *Unmaintained* |  |
 | [builtwithelm](http://github.com/elm-community/builtwithelm) | A list of projects and apps built with Elm | prikhi | pavan.rikhi@gmail.com |
 | [dict-extra](http://github.com/elm-community/dict-extra) | A library with extra functions for the dictionary type in elm core | Skinney | robin.heggelund@icloud.com |
 | [easing-functions](https://github.com/elm-community/easing-functions) | Easing (animation and timing) library for Elm | Dandandan | danielheres@gmail.com |
@@ -38,7 +38,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [shrink](http://github.com/elm-community/shrink) | Shrink a value to a simpler one | mgold | maxgoldstein1@gmail.com |
 | [string-extra](http://github.com/elm-community/string-extra) | String helper functions for Elm | lorenzo & jaapz | jose.zap@gmail.com & jaapz.b@gmail.com |
 | [SublimeElmLanguageSupport](https://github.com/elm-community/SublimeElmLanguageSupport) | Elm language support for Sublime Text | sentience | thatguy@kevinyank.com |
-| [svg-extra](http://github.com/elm-community/svg-extra) | Additional functions for working with Svg | jvoigtlaender | janis.voigtlaender@gmail.com |
+| [svg-extra](http://github.com/elm-community/svg-extra) | Additional functions for working with Svg | *Unmaintained* |  |
 | [undo-redo](http://github.com/elm-community/undo-redo) | Easy undo in Elm | rohanorton | rohan.orton@gmail.com |
 | [webgl](http://github.com/elm-community/webgl) | Functional 3D Rendering with WebGL in Elm | w0rm | unsoundscapes@gmail.com |
 | [typed-svg](http://github.com/elm-community/typed-svg) | Type-safe API for SVG. | rupertlssmith | typedsvg@thesett.com |
