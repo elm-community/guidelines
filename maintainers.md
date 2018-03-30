@@ -5,7 +5,7 @@ This file contains info on elm-community packages and who the current maintainer
 | Repo | Description | Maintainer github | Maintainer email |
 |------|-------|----------|-------|
 | [array-extra](http://github.com/elm-community/array-extra) | Convenience functions for working with Array | jonboiser | jonboiser@outlook.com |
-| [basics-extra](http://github.com/elm-community/basics-extra) | Additional basic functions | *Unmaintained* |  |
+| [basics-extra](http://github.com/elm-community/basics-extra) | Additional basic functions | pzp1997 | pzpaul2002@yahoo.com |
 | [builtwithelm](http://github.com/elm-community/builtwithelm) | A list of projects and apps built with Elm | prikhi | pavan.rikhi@gmail.com |
 | [dict-extra](http://github.com/elm-community/dict-extra) | A library with extra functions for the dictionary type in elm core | Skinney | robin.heggelund@icloud.com |
 | [easing-functions](https://github.com/elm-community/easing-functions) | Easing (animation and timing) library for Elm | Dandandan | danielheres@gmail.com |
