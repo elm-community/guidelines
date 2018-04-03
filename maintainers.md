@@ -37,6 +37,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [string-extra](http://github.com/elm-community/string-extra) | String helper functions for Elm | lorenzo & jaapz | jose.zap@gmail.com & jaapz.b@gmail.com |
 | [SublimeElmLanguageSupport](https://github.com/elm-community/SublimeElmLanguageSupport) | Elm language support for Sublime Text | sentience | thatguy@kevinyank.com |
 | [svg-extra](http://github.com/elm-community/svg-extra) | Additional functions for working with Svg | dstpierre | dominicstpierre@gmail.com |
+| [travis-ci](http://github.com/elm-community/travis-ci) | Community maintainers for Elm support on travis-ci.org | stoeffel, avh4, lukewestby, rtfeldman  | avh4: gruen0aermel+elm-travis@gmail.com |
 | [undo-redo](http://github.com/elm-community/undo-redo) | Easy undo in Elm | rohanorton | rohan.orton@gmail.com |
 | [webgl](http://github.com/elm-community/webgl) | Functional 3D Rendering with WebGL in Elm | w0rm | unsoundscapes@gmail.com |
 | [typed-svg](http://github.com/elm-community/typed-svg) | Type-safe API for SVG. | rupertlssmith | typedsvg@thesett.com |
