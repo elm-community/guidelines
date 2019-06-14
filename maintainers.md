@@ -23,7 +23,6 @@ This file contains info on elm-community packages and who the current maintainer
 | [elm-webpack-starter](https://github.com/elm-community/elm-webpack-starter) | Boilerplate for developing Elm apps on Webpack | eeue56 | enalicho@gmail.com |
 | [graph](http://github.com/elm-community/graph) | Functional Graph Library in Elm | sgraf812 | sgraf1337@gmail.com |
 | [html-extra](http://github.com/elm-community/html-extra) | Additional functions for working with Html | prikhi | pavan.rikhi@gmail.com |
-| [html-test-runner](http://github.com/elm-community/html-test-runner) | Run elm-test suites in the browser | hkgumbs | h.kofigumbs@gmail.com |
 | [intdict](http://github.com/elm-community/intdict) | Optimized dictionary specialization for Integers. Mirrors the dictionary API. | sgraf812 | sgraf1337@gmail.com |
 | [json-extra](http://github.com/elm-community/json-extra) | Convenience functions for working with Json | zwilias | mail@ilias.xyz |
 | [lazy-list](http://github.com/elm-community/lazy-list) | Lazy list implementation in Elm | mgold | maxgoldstein1@gmail.com |
@@ -48,3 +47,4 @@ This file contains info on elm-community packages and who the current maintainer
 |------|-------|----------|-------|
 | [elm-history](http://github.com/elm-community/elm-history) | Elm bindings to HTML5 History API | *Unmaintained* |  |
 | [elm-lang.org](http://github.com/elm-community/elm-lang.org) | The full source for http://elm-lang.org/, the home-page of the Elm programming language. Open sourced as a way to teach people how to write and serve Elm code. Follow the instructions in README.md to get the site setup on your own machine. | *Unmaintained* |  |
+| [html-test-runner](http://github.com/elm-community/html-test-runner) | Run elm-test suites in the browser | *Unmaintained* |  |
