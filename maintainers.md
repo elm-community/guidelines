@@ -19,7 +19,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [elm-route](https://github.com/elm-community/elm-route) | Route parser for Elm | gjaldon | gjaldon85@gmail.com |
 | [elm-test](http://github.com/elm-community/elm-test) | A unit testing framework for Elm | rtfeldman | richard.t.feldman@gmail.com |
 | [elm-time](https://github.com/elm-community/elm-time) | A pure Elm date and time library | oldfartdeveloper | scottnelsonsmith@gmail.com |
-| [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) | Webpack loader for Elm | eeue56 | enalicho@gmail.com |
+| [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) | Webpack loader for Elm | Skinney & heyakyra | robin.heggelund@icloud.com & hello@kyra.run |
 | [elm-webpack-starter](https://github.com/elm-community/elm-webpack-starter) | Boilerplate for developing Elm apps on Webpack | eeue56 | enalicho@gmail.com |
 | [graph](http://github.com/elm-community/graph) | Functional Graph Library in Elm | sgraf812 | sgraf1337@gmail.com |
 | [html-extra](http://github.com/elm-community/html-extra) | Additional functions for working with Html | prikhi | pavan.rikhi@gmail.com |
