@@ -36,7 +36,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [result-extra](http://github.com/elm-community/result-extra) | Convenience functions for working with Result | abadi199 | abadi.kurniawan@gmail.com |
 | [shrink](http://github.com/elm-community/shrink) | Shrink a value to a simpler one | mgold | maxgoldstein1@gmail.com |
 | [string-extra](http://github.com/elm-community/string-extra) | String helper functions for Elm | lorenzo & jaapz | jose.zap@gmail.com & jaapz.b@gmail.com |
-| [SublimeElmLanguageSupport](https://github.com/elm-community/SublimeElmLanguageSupport) | Elm language support for Sublime Text | sentience | thatguy@kevinyank.com |
+| [SublimeElmLanguageSupport](https://github.com/elm-community/SublimeElmLanguageSupport) | Elm language support for Sublime Text | evancz | evan@elm-lang.org |
 | [svg-extra](http://github.com/elm-community/svg-extra) | Additional functions for working with Svg | dstpierre | dominicstpierre@gmail.com |
 | [undo-redo](http://github.com/elm-community/undo-redo) | Easy undo in Elm | rohanorton | rohan.orton@gmail.com |
 | [webgl](http://github.com/elm-community/webgl) | Functional 3D Rendering with WebGL in Elm | w0rm | unsoundscapes@gmail.com |
