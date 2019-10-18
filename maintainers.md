@@ -33,7 +33,7 @@ This file contains info on elm-community packages and who the current maintainer
 | [maybe-extra](http://github.com/elm-community/maybe-extra) | Convenience functions for working with Maybe | abadi199 | abadi.kurniawan@gmail.com |
 | [random-extra](http://github.com/elm-community/random-extra) | Extra functions for Random | mgold | maxgoldstein1@gmail.com |
 | [ratio](http://github.com/elm-community/ratio) | Rational numbers | newlandsvalley | john.watson@gmx.co.uk |
-| [result-extra](http://github.com/elm-community/result-extra) | Convenience functions for working with Result | abadi199 | abadi.kurniawan@gmail.com |
+| [result-extra](http://github.com/elm-community/result-extra) | Convenience functions for working with Result | prikhi | pavan.rikhi@gmail.com |
 | [shrink](http://github.com/elm-community/shrink) | Shrink a value to a simpler one | mgold | maxgoldstein1@gmail.com |
 | [string-extra](http://github.com/elm-community/string-extra) | String helper functions for Elm | lorenzo & jaapz | jose.zap@gmail.com & jaapz.b@gmail.com |
 | [SublimeElmLanguageSupport](https://github.com/elm-community/SublimeElmLanguageSupport) | Elm language support for Sublime Text | sentience | thatguy@kevinyank.com |
