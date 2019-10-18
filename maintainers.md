@@ -30,10 +30,10 @@ This file contains info on elm-community packages and who the current maintainer
 | [list-extra](http://github.com/elm-community/list-extra) | Convenience functions for working with List | chadtech | chadtech0@gmail.com |
 | [list-split](http://github.com/elm-community/list-split) | Split lists into chunks | jonboiser | jonboiser@outlook.com |
 | [material-icons](http://github.com/elm-community/material-icons) | Material Icons in Elm | mgold | maxgoldstein1@gmail.com |
-| [maybe-extra](http://github.com/elm-community/maybe-extra) | Convenience functions for working with Maybe | abadi199 | abadi.kurniawan@gmail.com |
+| [maybe-extra](http://github.com/elm-community/maybe-extra) | Convenience functions for working with Maybe | *Unmaintained* | 
 | [random-extra](http://github.com/elm-community/random-extra) | Extra functions for Random | mgold | maxgoldstein1@gmail.com |
 | [ratio](http://github.com/elm-community/ratio) | Rational numbers | newlandsvalley | john.watson@gmx.co.uk |
-| [result-extra](http://github.com/elm-community/result-extra) | Convenience functions for working with Result | abadi199 | abadi.kurniawan@gmail.com |
+| [result-extra](http://github.com/elm-community/result-extra) | Convenience functions for working with Result | *Unmaintained* | |
 | [shrink](http://github.com/elm-community/shrink) | Shrink a value to a simpler one | mgold | maxgoldstein1@gmail.com |
 | [string-extra](http://github.com/elm-community/string-extra) | String helper functions for Elm | lorenzo & jaapz | jose.zap@gmail.com & jaapz.b@gmail.com |
 | [SublimeElmLanguageSupport](https://github.com/elm-community/SublimeElmLanguageSupport) | Elm language support for Sublime Text | sentience | thatguy@kevinyank.com |
