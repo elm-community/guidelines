@@ -44,7 +44,7 @@ This file contains info on elm-community packages and who the current maintainer
 ## Deprecated packages
 | Repo | Description | Maintainer github | Maintainer email |
 |------|-------|----------|-------|
-| [elm-datepicker](http://github.com/elm-community/elm-datepicker) | A reusable date picker component in Elm. 0.19 fork hosted by [CurrySoftware](https://github.com/CurrySoftware/elm-datepicker) | bbqbaron | eric.r.loren@gmail.com |
+| [elm-datepicker](http://github.com/elm-community/elm-datepicker) | A reusable date picker component in Elm. 0.19 fork hosted by [CurrySoftware](https://github.com/CurrySoftware/elm-datepicker) | *Unmaintained* | |
 | [elm-history](http://github.com/elm-community/elm-history) | Elm bindings to HTML5 History API | *Unmaintained* |  |
 | [elm-lang.org](http://github.com/elm-community/elm-lang.org) | The full source for http://elm-lang.org/, the home-page of the Elm programming language. Open sourced as a way to teach people how to write and serve Elm code. Follow the instructions in README.md to get the site setup on your own machine. | *Unmaintained* |  |
 | [html-test-runner](http://github.com/elm-community/html-test-runner) | Run elm-test suites in the browser | *Unmaintained* |  |
