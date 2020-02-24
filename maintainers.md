@@ -16,7 +16,6 @@ This file contains info on elm-community packages and who the current maintainer
 | [elm-faq](http://github.com/elm-community/elm-faq) | FAQ about the Elm language | fredcy | fredcy@gmail.com |
 | [elm-for-js](http://github.com/elm-community/elm-for-js) | Community driven Elm guide for JS people | *Unmaintained* |  |
 | [elm-route](https://github.com/elm-community/elm-route) | Route parser for Elm | gjaldon | gjaldon85@gmail.com |
-| [elm-test](http://github.com/elm-community/elm-test) | A unit testing framework for Elm | rtfeldman | richard.t.feldman@gmail.com |
 | [elm-time](https://github.com/elm-community/elm-time) | A pure Elm date and time library | oldfartdeveloper | scottnelsonsmith@gmail.com |
 | [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) | Webpack loader for Elm | Skinney & heyakyra | robin.heggelund@icloud.com & hello@kyra.run |
 | [elm-webpack-starter](https://github.com/elm-community/elm-webpack-starter) | Boilerplate for developing Elm apps on Webpack | eeue56 | enalicho@gmail.com |
@@ -48,4 +47,5 @@ This file contains info on elm-community packages and who the current maintainer
 | [elm-datepicker](http://github.com/elm-community/elm-datepicker) | A reusable date picker component in Elm. 0.19 fork hosted by [CurrySoftware](https://github.com/CurrySoftware/elm-datepicker) | *Unmaintained* | |
 | [elm-history](http://github.com/elm-community/elm-history) | Elm bindings to HTML5 History API | *Unmaintained* |  |
 | [elm-lang.org](http://github.com/elm-community/elm-lang.org) | The full source for http://elm-lang.org/, the home-page of the Elm programming language. Open sourced as a way to teach people how to write and serve Elm code. Follow the instructions in README.md to get the site setup on your own machine. | *Unmaintained* |  |
+| [elm-test](http://github.com/elm-community/elm-test) | The 0.18.0 version of [elm-explorations/test](http://github.com/elm-explorations/test) | *Unmaintained* | |
 | [html-test-runner](http://github.com/elm-community/html-test-runner) | Run elm-test suites in the browser | *Unmaintained* |  |
