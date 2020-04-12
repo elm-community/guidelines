@@ -34,7 +34,6 @@ This file contains info on elm-community packages and who the current maintainer
 | [result-extra](http://github.com/elm-community/result-extra) | Convenience functions for working with Result | prikhi | pavan.rikhi@gmail.com |
 | [shrink](http://github.com/elm-community/shrink) | Shrink a value to a simpler one | mgold | maxgoldstein1@gmail.com |
 | [string-extra](http://github.com/elm-community/string-extra) | String helper functions for Elm | lorenzo & jaapz | jose.zap@gmail.com & jaapz.b@gmail.com |
-| [SublimeElmLanguageSupport](https://github.com/elm-community/SublimeElmLanguageSupport) | Elm language support for Sublime Text | sentience | thatguy@kevinyank.com |
 | [svg-extra](http://github.com/elm-community/svg-extra) | Additional functions for working with Svg | dstpierre | dominicstpierre@gmail.com |
 | [travis-ci](http://github.com/elm-community/travis-ci) | Community maintainers for Elm support on travis-ci.org | stoeffel, avh4, lukewestby, rtfeldman  | avh4: gruen0aermel+elm-travis@gmail.com |
 | [undo-redo](http://github.com/elm-community/undo-redo) | Easy undo in Elm | rohanorton | rohan.orton@gmail.com |
@@ -49,3 +48,4 @@ This file contains info on elm-community packages and who the current maintainer
 | [elm-lang.org](http://github.com/elm-community/elm-lang.org) | The full source for http://elm-lang.org/, the home-page of the Elm programming language. Open sourced as a way to teach people how to write and serve Elm code. Follow the instructions in README.md to get the site setup on your own machine. | *Unmaintained* |  |
 | [elm-test](http://github.com/elm-community/elm-test) | The 0.18.0 version of [elm-explorations/test](http://github.com/elm-explorations/test) | *Unmaintained* | |
 | [html-test-runner](http://github.com/elm-community/html-test-runner) | Run elm-test suites in the browser | *Unmaintained* |  |
+| [SublimeElmLanguageSupport](https://github.com/elm-community/SublimeElmLanguageSupport) | Elm language support for Sublime Text. Deprecated in favor of [elm-syntax-highlighting](https://github.com/evancz/elm-syntax-highlighting) and [elm-format-on-save](https://github.com/evancz/elm-format-on-save) | *Unmaintained* | |
