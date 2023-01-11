@@ -10,7 +10,7 @@ The people who initiated this experiment ran into some rather predictable troubl
 
 2. If the needs of certain users do not match `alice/typed-svg` or `bob/easing-functions`, certain users can decide if it is worthwhile to make their own version and take on the full burden of development themselves. If it is not worthwhile to them, they will not do that. If it is worthwhile to them, they will do so under their own name and the package will succeed or fail on its own merits. Not by piggybacking on the reputation or usership of an existing package or organization.
 
-This is a **decentralized** way for **decentralized** people to end up with the code they want. There is no central point to ask permission for anything. And there is no official sounding organization that (with old versions of this document) might dissuade potential new package authors from pursuing their vision of a particular package. If your needs do not match what is freely available online, the next steps to solving your own problem are fully in your own hands.
+This is a **decentralized** way for **decentralized** people to end up with the code they want. There is no central point to ask permission for anything. And there is no official sounding organization that (with prior versions of this repo) might dissuade potential new package authors from pursuing their vision of a particular package. If your needs do not match what is freely available online, the next steps to solving your own problem are fully in your own hands.
 
 
 ### Current Usage
